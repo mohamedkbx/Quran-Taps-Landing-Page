@@ -1,0 +1,15 @@
+{
+  "name": "quran-landing-page-project-1",
+  "version": "1.0.0",
+  "description": "Quran Taps Landing PAge",
+  "main": "script.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "Mohamedkbx",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.4.3"
+  }
+}

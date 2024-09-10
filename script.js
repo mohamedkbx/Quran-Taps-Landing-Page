@@ -1,10 +1,5 @@
+import { clickLabel } from "./utils.js";
 // select Labels
 const labelElements = document.querySelectorAll("label");
 
-labelElements.forEach((element) =>
-  element.addEventListener("keydown", (e) => {
-    if (e.key === "Enter") {
-      element.click();
-    }
-  })
-);
+labelElements.forEach((element) => clickLabel(element));
