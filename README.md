@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Quran Landing Page developed as part of the JavaScript II course from منصة مدرسة. The goal of this project is to create an accessible and user-friendly landing page for Quranic content.
+The goal of this project is to create an accessible and user-friendly landing page for Quranic content.
 
 ## Technologies Used
 
